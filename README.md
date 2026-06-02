@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/scent-of-your-skin/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Scent Of Your Skin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/scent-of-your-skin/) |
+| **Get License** | [Obtain a Music License for Scent Of Your Skin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/scent-of-your-skin/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The scent of your skin is a memory I keep
+> Like a warm, gentle fire as I drift off to sleep
+> There's a pull in your eyes when the daylight has gone
+> A quiet attraction that lingers till dawn
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
