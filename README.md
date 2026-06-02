@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/scent-of-your-skin/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Scent Of Your Skin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/scent-of-your-skin/) |
+| **Get License** | [Music Rights & Licensing for Scent Of Your Skin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/scent-of-your-skin/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8c80a569347aefdceb45a653b5f9fb7552d4cd361ac184886e1f5366bcb1ae6a` |
 | **Timestamp** | June 02, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

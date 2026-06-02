@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Scent Of Your Skin
+
+This log tracks the cryptographic history and versioning for the song **Scent Of Your Skin** (scent-of-your-skin).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-02T13:57:36.269615 | `v1` | `8c80a569347aefdceb45a653b5f9fb7552d4cd361ac184886e1f5366bcb1ae6a` | `2f3b0dd56b122dbed5f3c576d1d482d72de10b7b6c23bf6b4dafbc1e384ddd3f` | `2026-06-02_scent-of-your-skin-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
